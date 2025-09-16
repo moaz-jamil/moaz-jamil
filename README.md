@@ -29,5 +29,5 @@ I'm a BSCS student with a passion for software development. I enjoy building app
 ## 📫 Contact Me
 
 - Email: `your_email@example.com`  
-- LinkedIn: [Your LinkedIn](#)  
-- Portfolio: [Your Portfolio](#)
+- LinkedIn: [https://www.linkedin.com/in/moaz-jamil-3630a7324/](#)  
+
