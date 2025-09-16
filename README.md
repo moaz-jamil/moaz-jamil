@@ -28,6 +28,6 @@ I'm a BSCS student with a passion for software development. I enjoy building app
 
 ## 📫 Contact Me
 
-- Email: `your_email@example.com`  
+- Email: `jamilahmed20201970@gmail.com`  
 - LinkedIn: [https://www.linkedin.com/in/moaz-jamil-3630a7324/](#)  
 
