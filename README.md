@@ -28,7 +28,7 @@ I'm a BSCS student with a passion for software development. I enjoy building app
 | **Grace POS** | POS system built with Django backend and Flutter frontend for cross-platform usage. | Django, Flutter, SQLite, API Integration |
 | **Gmail App** | Django integrated with Gmail API to manage emails efficiently. | Python, Django, Gmail API |
 | **Banking System** | Console-based banking system developed in C++ to simulate real-world banking operations. | C++ |
-| **Photo App** | Frontend Flutter application for managing and editing photos with intuitive UI. | Flutter, Dart |
+| **Hospital Registration App** | Frontend Flutter application for managing and editing photos with intuitive UI. | Flutter, Dart |
 
 ---
 
